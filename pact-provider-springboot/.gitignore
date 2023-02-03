@@ -1,0 +1,90 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+@athan3350 
+spring-projects
+/
+spring-boot
+Public
+Code
+Issues
+518
+Pull requests
+33
+Actions
+Projects
+Wiki
+Security
+Insights
+spring-boot/.gitignore
+@wilkinsona
+wilkinsona Configure JTA tests to write logs beneath build/
+…
+Latest commit 4444749 on 14 May 2021
+ History
+ 10 contributors
+@philwebb@dsyer@gregturn@wilkinsona@rajadilipkolli@isopov@runningcode@mbhave@mathieufortin01@izeye
+42 lines (42 sloc)  429 Bytes
+
+*#
+*.iml
+*.ipr
+*.iws
+*.jar
+*.sw?
+*~
+.#*
+.*.md.html
+.DS_Store
+.attach_pid*
+.classpath
+.factorypath
+.gradle
+.idea
+.metadata
+.project
+.recommenders
+.settings
+.springBeans
+.vscode
+./logs/
+/code
+MANIFEST.MF
+_site/
+activemq-data
+bin
+build
+!/**/src/**/bin
+!/**/src/**/build
+build.log
+dependency-reduced-pom.xml
+dump.rdb
+interpolated*.xml
+lib/
+manifest.yml
+out
+overridedb.*
+target
+.flattened-pom.xml
+secrets.yml
+.gradletasknamecache
+.sts4-cache
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+You have no unread notifications
+./logs
